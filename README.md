@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Flutter and React JS.**
 
-- 📫 How to reach me **wazini25@@gmail.com**
+- 📫 How to reach me **wazini25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
