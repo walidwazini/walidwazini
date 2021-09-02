@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Walid Wazini</h1>
-<h3 align="center">App Dev enthusiast from Malaysia &#x1f1f2; &#x1f1fe; &#127474;&#127486 </h3>
+<h3 align="center">App Dev enthusiast from Malaysia 🇲🇾</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walidwazini&label=Profile%20views&color=c577c2&style=flat" alt="walidwazini" /> </p>
 
