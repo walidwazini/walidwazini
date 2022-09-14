@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Walid Wazini</h1>
-<h3 align="center">App Dev enthusiast from Malaysia 🇲🇾</h3>
+<h1 align="center">Hello 👋, I'm Walid Wazini</h1>
+<h3 align="center">Self-taught web developer from Malaysia 🇲🇾</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walidwazini&label=Profile%20views&color=c577c2&style=flat" alt="walidwazini" /> </p>
 
