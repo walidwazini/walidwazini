@@ -34,7 +34,4 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=walidwazini&show_icons=true&theme=nightowl&locale=en&layout=compact" alt="walidwazini" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=walidwazini&show_icons=true&theme=nightowl&locale=en" alt="walidwazini" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=walidwazini&theme=nightowl" alt="walidwazini" /></p>
 
